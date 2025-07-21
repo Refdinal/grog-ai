@@ -1,0 +1,22 @@
+[
+  { "nama": "BBRI", "jenis": "saham", "return": 14.2, "risiko": 18.3 },
+  { "nama": "BBCA", "jenis": "saham", "return": 12.5, "risiko": 16.1 },
+  { "nama": "TLKM", "jenis": "saham", "return": 10.8, "risiko": 14.7 },
+  { "nama": "ANTM", "jenis": "saham", "return": 18.7, "risiko": 24.5 },
+  { "nama": "GOTO", "jenis": "saham", "return": -5.2, "risiko": 35.1 },
+  { "nama": "IHSG", "jenis": "indeks", "return": 7.5, "risiko": 10.2 },
+  { "nama": "SBN 10 Tahun", "jenis": "obligasi", "return": 6.3, "risiko": 3.4 },
+  { "nama": "ORI022", "jenis": "obligasi", "return": 6.0, "risiko": 2.9 },
+  { "nama": "Reksadana Pasar Uang", "jenis": "reksadana", "return": 4.2, "risiko": 0.8 },
+  { "nama": "Reksadana Saham", "jenis": "reksadana", "return": 10.1, "risiko": 14.3 },
+  { "nama": "Logam Mulia (Emas)", "jenis": "komoditas", "return": 9.0, "risiko": 12.1 },
+  { "nama": "Bitcoin", "jenis": "crypto", "return": 65.0, "risiko": 85.2 },
+  { "nama": "Ethereum", "jenis": "crypto", "return": 55.4, "risiko": 79.8 },
+  { "nama": "US Dollar", "jenis": "mata uang", "return": 2.1, "risiko": 3.0 },
+  { "nama": "Properti Jakarta", "jenis": "properti", "return": 6.5, "risiko": 4.5 },
+  { "nama": "Properti Bali", "jenis": "properti", "return": 7.8, "risiko": 6.2 },
+  { "nama": "ETF IDX30", "jenis": "ETF", "return": 8.4, "risiko": 10.9 },
+  { "nama": "S&P 500", "jenis": "indeks global", "return": 11.2, "risiko": 15.7 },
+  { "nama": "Obligasi Korporasi A", "jenis": "obligasi", "return": 7.2, "risiko": 5.6 },
+  { "nama": "Cash / Tabungan", "jenis": "tunai", "return": 1.2, "risiko": 0.1 }
+]
